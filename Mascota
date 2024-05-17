@@ -7,10 +7,12 @@
 <body>
 <img src="C:\Users\denze\OneDrive\Documentos-gato1.png" alt="Mi imagen numero 1">
 <img src="C:\Users\denze\OneDrive\Documentos-gato2.png" alt="Mi imagen numero2">
+ <img src="../IMG/Gato.jpeg" width="300px" heigth="300px" alt="Gato"></img>
 <p>Mi gato se llama <strong>DREGY</strong>.</p>
 <p>Mi gato tiene 2 años y medio </p>
 <p>El tiene es de color gris </p>
 <p> tengo otro gato blanco </p>
 <p> Aunque a esté no le presto <strong>MUCHA</strong> atención </p>
+
 </body>
 </html>
